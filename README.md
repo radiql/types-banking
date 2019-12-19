@@ -1,2 +1,2 @@
 # types-banking
-A collection of data types typically found in banking applications
+A collection of data types commonly found in banking applications
